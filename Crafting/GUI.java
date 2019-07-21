@@ -1,3 +1,5 @@
+//Basic Interface for the Gold Smeleter/Autocrafter
+
 package Crafting;
 
 import javax.swing.*;
