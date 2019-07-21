@@ -22,7 +22,7 @@ import org.powerbot.script.rt4.Item;
 import org.powerbot.script.rt4.Bank.Amount;
 import org.powerbot.script.rt4.Magic.Spell;
 
-@Script.Manifest(name = "Dittymaster's Enchanter", description = "Enchants Jewellery", properties = "author=Dittymaster;topic=1319500;client=4")
+@Script.Manifest(name = "Dittymaster's Enchanter", description = "Enchant Jewellery up to Zenyte", properties = "author=Dittymaster;topic=1319500;client=4")
 public class AutoEnchant extends PollingScript<ClientContext> implements PaintListener {
 	private static GUI form;
 	private String gemEnchant;
